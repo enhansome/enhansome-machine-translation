@@ -1,0 +1,591 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bleualign",
+          "description": "A machine translation based sentence alignment tool for parallel text.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-18T15:52:05Z",
+            "owner": "rsennrich",
+            "repo": "Bleualign",
+            "stars": 316
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vecalign",
+          "description": "An accurate sentence alignment algorithm that works in about 100 languages, without the need for a machine translation system or lexicon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-04T19:52:09Z",
+            "owner": "thompsonb",
+            "repo": "vecalign",
+            "stars": 200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yalign",
+          "description": "A sentence aligner for comparable corpora.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-05-19T15:55:06Z",
+            "owner": "machinalis",
+            "repo": "yalign",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bleualign-cpp",
+          "description": "A C++ sentence alignment tool based on Bleualign. Bleualign-cpp is expected to be used together with document-aligner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-03-10T21:02:57Z",
+            "owner": "bitextor",
+            "repo": "bleualign-cpp",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Aligners 🌌"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LibreTranslate",
+          "description": "A free and open source machine translation API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T18:51:28Z",
+            "owner": "LibreTranslate",
+            "repo": "LibreTranslate",
+            "stars": 15995
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Argos Translate",
+          "description": "An open-source offline translation library written in Python. Uses OpenNMT for translations, SentencePiece for tokenization, Stanza for sentence boundary detection, and PyQt for GUI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T12:09:57Z",
+            "owner": "argosopentech",
+            "repo": "argos-translate",
+            "stars": 6365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "translateLocally",
+          "description": "A fast and secure translation on your local machine, powered by marian and Bergamot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-03-30T19:11:35Z",
+            "owner": "XapaJIaMnu",
+            "repo": "translateLocally",
+            "stars": 616
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DesktopTranslator",
+          "description": "A local cross-platform machine translation GUI, based on CTranslate2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-09T09:36:50Z",
+            "owner": "ymoslem",
+            "repo": "DesktopTranslator",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LibreOffice Translate",
+          "description": "An extension providing neural machine translation for LibreOffice with a single click.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-11-04T10:22:21Z",
+            "owner": "lernapparat",
+            "repo": "lotranslate",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Local-NMT",
+          "description": "A pre-trained Huggingface Machine Translation engine with UI on local computer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-12-06T13:41:58Z",
+            "owner": "fantinuoli",
+            "repo": "Local-NMT",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CTranslate-NMT-Web-Interface",
+          "description": "A Machine Translation web interface for OpenNMT and FairSeq models using CTranslate and Streamlit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-24T16:10:09Z",
+            "owner": "ymoslem",
+            "repo": "CTranslate-NMT-Web-Interface",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Applications 💻"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fairseq",
+          "description": "A sequence modeling toolkit to train custom models for translation, summarization, language modeling and other text generation tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-09-30T11:16:06Z",
+            "owner": "facebookresearch",
+            "repo": "fairseq",
+            "stars": 32241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sockeye",
+          "description": "A sequence-to-sequence framework with a focus on Neural Machine Translation based on PyTorch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-24T08:18:17Z",
+            "owner": "awslabs",
+            "repo": "sockeye",
+            "stars": 1215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nematus",
+          "description": "Attention-based encoder-decoder model for neural machine translation built in Tensorflow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-09T10:01:26Z",
+            "owner": "EdinburghNLP",
+            "repo": "nematus",
+            "stars": 805
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Joey NMT",
+          "description": "A minimalist NMT for educational purposes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-29T01:27:42Z",
+            "owner": "joeynmt",
+            "repo": "joeynmt",
+            "stars": 709
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bergamot",
+          "description": "Cross platform C++ library focusing on optimized machine translation on the consumer-grade device.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-05-12T08:51:04Z",
+            "owner": "browsermt",
+            "repo": "bergamot-translator",
+            "stars": 536
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ModernMT",
+          "description": "A neural adaptive machine translation that adapts to context and learns from corrections.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-07-07T21:02:43Z",
+            "owner": "modernmt",
+            "repo": "modernmt",
+            "stars": 350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NiuTrans.SMT",
+          "description": "An open source statistical machine translation system that fully developed in C++ language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-07-17T00:00:47Z",
+            "owner": "NiuTrans",
+            "repo": "NiuTrans.SMT",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NiuTrans.NMT",
+          "description": "A fast Neural Machine Translation system that developed in C++ and resorts to NiuTensor for fast tensor APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-03-07T05:26:19Z",
+            "owner": "NiuTrans",
+            "repo": "NiuTrans.NMT",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EnglishTurkishTranslation-CPP",
+          "description": "An English-Turkish phrase-based translation library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-17T12:56:26Z",
+            "owner": "StarlangSoftware",
+            "repo": "EnglishTurkishTranslation-CPP",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Frameworks 🖼"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MT-Reading-List",
+          "description": "A machine translation reading list maintained by the Tsinghua Natural Language Processing Group.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2024-08-09T14:48:06Z",
+            "owner": "THUNLP-MT",
+            "repo": "MT-Reading-List",
+            "stars": 2435
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Simultaneous Translation",
+          "description": "Paper list of Simultaneous Translation Research, including both text-to-text machine translation and speech-to-text translation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-07T14:07:11Z",
+            "owner": "zhangshaolei1998",
+            "repo": "Awesome-Simultaneous-Translation",
+            "stars": 579
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Machine Translation Implementations",
+          "description": "A list of Neural MT implementations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-07-27T04:23:42Z",
+            "owner": "jonsafari",
+            "repo": "nmt-list",
+            "stars": 364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NMT Papers",
+          "description": "Some papers about NMT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-01-15T06:07:43Z",
+            "owner": "yokusama",
+            "repo": "NMT_Papers",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Multimodal-Machine-Translation",
+          "description": "A curated list of awesome papers, datasets and tutorials within Multimodal Machine Learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2021-09-15T06:42:05Z",
+            "owner": "ZihengZZH",
+            "repo": "awesome-multimodal-machine-translation",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awosome Simultaneous Translation",
+          "description": "Awesome papers and codes for Simultaneous Machine Translation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-12-06T12:54:21Z",
+            "owner": "js-lee-AI",
+            "repo": "Awesome_SimultaneousTranslation",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "inspiring_papers",
+          "description": "Papers related to machine translation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2019-03-18T04:54:00Z",
+            "owner": "alphadl",
+            "repo": "inspiring_papers",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-nmt",
+          "description": "A curated list of useful paper, tools, tutorials, data, conferences, journals for neural machine translation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-07-14T13:17:52Z",
+            "owner": "sanjibnarzary",
+            "repo": "awesome-nmt",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Other MT Lists 📝"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Papers 📄"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Corpora Cleaning Tools",
+          "description": "Tools for filtering and cleaning parallel and monolingual corpora in order to train better (neural) machine translation systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-12-19T05:50:20Z",
+            "owner": "M4t1ss",
+            "repo": "parallel-corpora-tools",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Avrupa Birliği İlerleme Raporları",
+          "description": "Regular Turkish and English progress reports prepared for Turkey by the European Commission.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-11-20T15:08:13Z",
+            "owner": "ogun",
+            "repo": "ab-ilerleme-raporlari",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "turkish-parallel-corpora",
+          "description": "Some English-Turkish parallel texts for use in machine translation systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-01-18T18:07:14Z",
+            "owner": "maidis",
+            "repo": "turkish-parallel-corpora",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Parallel Texts ⏸️"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MTData",
+          "description": "A tool that locates, downloads, and extracts machine translation corpora.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-13T21:09:47Z",
+            "owner": "thammegowda",
+            "repo": "mtdata",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpusFilter",
+          "description": "A tool for filtering and combining parallel corpora.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-01T15:28:41Z",
+            "owner": "Helsinki-NLP",
+            "repo": "OpusFilter",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Corpora Cleaning Tools",
+          "description": "Tools for filtering and cleaning parallel and monolingual corpora in order to train better (neural) machine translation systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-12-19T05:50:20Z",
+            "owner": "M4t1ss",
+            "repo": "parallel-corpora-tools",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MT-Tools",
+          "description": "A collection of common machine translation tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-07-26T20:00:09Z",
+            "owner": "ymoslem",
+            "repo": "MT-Tools",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multiword Expression Tools",
+          "description": "Tools for use with multiword expression extraction from parallel corpora for Moses statistical machine translation system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-07-09T12:33:26Z",
+            "owner": "M4t1ss",
+            "repo": "MWE-Tools",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Tools 🛠"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nmt",
+          "description": "TensorFlow neural machine translation tutorial.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-10-09T08:07:34Z",
+            "owner": "tensorflow",
+            "repo": "nmt",
+            "stars": 6455
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tips on Building Neural Machine Translation Systems",
+          "description": "A tutorial that explains some practical tips about how to train a neural machine translation system. It's partly based around examples using the lamtram toolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2016-11-16T18:01:25Z",
+            "owner": "neubig",
+            "repo": "nmt-tips",
+            "stars": 369
+          }
+        }
+      ],
+      "title": "Tutorials and Blogs 🎒"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:04:41.833Z",
+    "original_repository": "maidis/awesome-machine-translation",
+    "original_repository_sha": "8e2093c3d21c597f01e2b51b0cb5ac52ef6fdacf",
+    "enhanced_repository": "enhansome/enhansome-machine-translation",
+    "enhanced_repository_description": null,
+    "title": "Awesome Machine Translation with stars"
+  }
+}
