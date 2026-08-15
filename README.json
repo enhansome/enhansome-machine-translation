@@ -76,7 +76,7 @@
             "last_commit": "2026-08-10T18:51:28Z",
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 16002
+            "stars": 16008
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-08T12:09:57Z",
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6368
+            "stars": 6372
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32242
+            "stars": 32240
           }
         },
         {
@@ -581,7 +581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T09:46:11.976Z",
+    "last_updated": "2026-08-15T09:11:27.373Z",
     "original_repository": "maidis/awesome-machine-translation",
     "original_repository_sha": "8e2093c3d21c597f01e2b51b0cb5ac52ef6fdacf",
     "enhanced_repository": "enhansome/enhansome-machine-translation",
