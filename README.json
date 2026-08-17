@@ -14,7 +14,7 @@
             "last_commit": "2021-03-18T15:52:05Z",
             "owner": "rsennrich",
             "repo": "Bleualign",
-            "stars": 316
+            "stars": 315
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32240
+            "stars": 32237
           }
         },
         {
@@ -208,7 +208,7 @@
             "last_commit": "2022-12-09T10:01:26Z",
             "owner": "EdinburghNLP",
             "repo": "nematus",
-            "stars": 805
+            "stars": 804
           }
         },
         {
@@ -581,7 +581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T09:12:43.820Z",
+    "last_updated": "2026-08-17T09:25:15.654Z",
     "original_repository": "maidis/awesome-machine-translation",
     "original_repository_sha": "8e2093c3d21c597f01e2b51b0cb5ac52ef6fdacf",
     "enhanced_repository": "enhansome/enhansome-machine-translation",
