@@ -1,6 +1,6 @@
 # Awesome Machine Translation with stars
 
-A list of awesome Machine Translation frameworks, libraries, software and papers. Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,037 | 🐛 24 | 🌐 Python | 📅 2026-08-11.
+A list of awesome Machine Translation frameworks, libraries, software and papers. Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,049 | 🐛 25 | 🌐 Python | 📅 2026-08-11.
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@anilozbek](https://twitter.com/anilozbek). Also, a listed repository should be deprecated if:
 
@@ -27,7 +27,7 @@ You can also find an updated list of machine translation frameworks, libraries, 
 
 ## Aligners 🌌
 
-* [Bleualign](https://github.com/rsennrich/Bleualign) ⭐ 315 | 🐛 1 | 🌐 Python | 📅 2021-03-18 - A machine translation based sentence alignment tool for parallel text.
+* [Bleualign](https://github.com/rsennrich/Bleualign) ⭐ 314 | 🐛 1 | 🌐 Python | 📅 2021-03-18 - A machine translation based sentence alignment tool for parallel text.
 * [Vecalign](https://github.com/thompsonb/vecalign) ⭐ 200 | 🐛 2 | 🌐 Python | 📅 2026-07-04 - An accurate sentence alignment algorithm that works in about 100 languages, without the need for a machine translation system or lexicon.
 * [yalign](https://github.com/machinalis/yalign) ⭐ 131 | 🐛 11 | 🌐 Python | 📅 2016-05-19 - A sentence aligner for comparable corpora.
 * [Bleualign-cpp](https://github.com/bitextor/bleualign-cpp) ⭐ 9 | 🐛 2 | 🌐 C++ | 📅 2023-03-10 - A C++ sentence alignment tool based on Bleualign. Bleualign-cpp is expected to be used together with document-aligner.
@@ -39,9 +39,9 @@ You can also find an updated list of machine translation frameworks, libraries, 
 
 ## Applications 💻
 
-* [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) ⭐ 16,016 | 🐛 124 | 🌐 Python | 📅 2026-08-10 - A free and open source machine translation API.
-* [Argos Translate](https://github.com/argosopentech/argos-translate) ⭐ 6,373 | 🐛 157 | 🌐 Python | 📅 2026-08-08 - An open-source offline translation library written in Python. Uses OpenNMT for translations, SentencePiece for tokenization, Stanza for sentence boundary detection, and PyQt for GUI.
-* [translateLocally](https://github.com/XapaJIaMnu/translateLocally) ⭐ 617 | 🐛 53 | 🌐 C++ | 📅 2025-03-30 - A fast and secure translation on your local machine, powered by marian and Bergamot.
+* [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) ⭐ 16,024 | 🐛 124 | 🌐 Python | 📅 2026-08-10 - A free and open source machine translation API.
+* [Argos Translate](https://github.com/argosopentech/argos-translate) ⭐ 6,379 | 🐛 157 | 🌐 Python | 📅 2026-08-08 - An open-source offline translation library written in Python. Uses OpenNMT for translations, SentencePiece for tokenization, Stanza for sentence boundary detection, and PyQt for GUI.
+* [translateLocally](https://github.com/XapaJIaMnu/translateLocally) ⭐ 618 | 🐛 53 | 🌐 C++ | 📅 2025-03-30 - A fast and secure translation on your local machine, powered by marian and Bergamot.
 * [DesktopTranslator](https://github.com/ymoslem/DesktopTranslator) ⭐ 100 | 🐛 7 | 🌐 Python | 📅 2024-01-09 - A local cross-platform machine translation GUI, based on CTranslate2.
 * [LibreOffice Translate](https://github.com/lernapparat/lotranslate) ⭐ 72 | 🐛 3 | 🌐 Python | 📅 2020-11-04 - An extension providing neural machine translation for LibreOffice with a single click.
 * [Local-NMT](https://github.com/fantinuoli/Local-NMT) ⭐ 21 | 🐛 0 | 🌐 HTML | 📅 2025-12-06 - A pre-trained Huggingface Machine Translation engine with UI on local computer.
@@ -79,7 +79,7 @@ You can also find an updated list of machine translation frameworks, libraries, 
 * [Sockeye](https://github.com/awslabs/sockeye) ⭐ 1,215 | 🐛 12 | 🌐 Python | 📅 2024-10-24 - A sequence-to-sequence framework with a focus on Neural Machine Translation based on PyTorch.
 * [Nematus](https://github.com/EdinburghNLP/nematus) ⭐ 804 | 🐛 10 | 🌐 Python | 📅 2022-12-09 - Attention-based encoder-decoder model for neural machine translation built in Tensorflow.
 * [Joey NMT](https://github.com/joeynmt/joeynmt) ⭐ 709 | 🐛 12 | 🌐 Python | 📅 2024-01-29 - A minimalist NMT for educational purposes.
-* [Bergamot](https://github.com/browsermt/bergamot-translator) ⭐ 537 | 🐛 57 | 🌐 C++ | 📅 2024-05-12 - Cross platform C++ library focusing on optimized machine translation on the consumer-grade device.
+* [Bergamot](https://github.com/browsermt/bergamot-translator) ⭐ 538 | 🐛 57 | 🌐 C++ | 📅 2024-05-12 - Cross platform C++ library focusing on optimized machine translation on the consumer-grade device.
 * [ModernMT](https://github.com/ModernMT/MMT) ⭐ 350 | 🐛 68 | 🌐 Java | 📅 2022-07-07 - A neural adaptive machine translation that adapts to context and learns from corrections.
 * [NiuTrans.SMT](https://github.com/NiuTrans/NiuTrans.SMT) ⭐ 163 | 🐛 1 | 🌐 C++ | 📅 2024-07-17 - An open source statistical machine translation system that fully developed in C++ language.
 * [NiuTrans.NMT](https://github.com/NiuTrans/NiuTrans.NMT) ⭐ 147 | 🐛 4 | 🌐 C++ | 📅 2024-03-07 - A fast Neural Machine Translation system that developed in C++ and resorts to NiuTensor for fast tensor APIs.
@@ -159,4 +159,4 @@ You can also find an updated list of machine translation frameworks, libraries, 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
