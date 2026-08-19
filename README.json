@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 918247,
             "language": "Python",
             "last_commit": "2021-03-18T15:52:05Z",
             "owner": "rsennrich",
             "repo": "Bleualign",
-            "stars": 314
+            "stars": 313
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 217608151,
             "language": "Python",
             "last_commit": "2026-07-04T19:52:09Z",
             "owner": "thompsonb",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12383081,
             "language": "Python",
             "last_commit": "2016-05-19T15:55:06Z",
             "owner": "machinalis",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 200035169,
             "language": "C++",
             "last_commit": "2023-03-10T21:02:57Z",
             "owner": "bitextor",
@@ -63,7 +67,7 @@
       "title": "Aligners 🌌"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -72,11 +76,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 322921248,
             "language": "Python",
             "last_commit": "2026-08-10T18:51:28Z",
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 16024
+            "stars": 16033
           }
         },
         {
@@ -86,11 +91,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 253849484,
             "language": "Python",
             "last_commit": "2026-08-08T12:09:57Z",
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6379
+            "stars": 6380
           }
         },
         {
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 357574796,
             "language": "C++",
             "last_commit": "2025-03-30T19:11:35Z",
             "owner": "XapaJIaMnu",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 443538808,
             "language": "Python",
             "last_commit": "2024-01-09T09:36:50Z",
             "owner": "ymoslem",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 180026864,
             "language": "Python",
             "last_commit": "2020-11-04T10:22:21Z",
             "owner": "lernapparat",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 442435962,
             "language": "HTML",
             "last_commit": "2025-12-06T13:41:58Z",
             "owner": "fantinuoli",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 380597746,
             "language": "Python",
             "last_commit": "2021-12-24T16:10:09Z",
             "owner": "ymoslem",
@@ -167,7 +178,7 @@
       "title": "Applications 💻"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -176,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 101782647,
             "language": "Python",
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
@@ -190,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93721432,
             "language": "Python",
             "last_commit": "2024-10-24T08:18:17Z",
             "owner": "awslabs",
@@ -204,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57130858,
             "language": "Python",
             "last_commit": "2022-12-09T10:01:26Z",
             "owner": "EdinburghNLP",
@@ -218,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153133227,
             "language": "Python",
             "last_commit": "2024-01-29T01:27:42Z",
             "owner": "joeynmt",
@@ -232,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 305366423,
             "language": "C++",
             "last_commit": "2024-05-12T08:51:04Z",
             "owner": "browsermt",
@@ -246,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38152816,
             "language": "Java",
             "last_commit": "2022-07-07T21:02:43Z",
             "owner": "modernmt",
@@ -260,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133117237,
             "language": "C++",
             "last_commit": "2024-07-17T00:00:47Z",
             "owner": "NiuTrans",
@@ -274,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 285706350,
             "language": "C++",
             "last_commit": "2024-03-07T05:26:19Z",
             "owner": "NiuTrans",
@@ -288,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 189953776,
             "language": "C++",
             "last_commit": "2026-03-17T12:56:26Z",
             "owner": "StarlangSoftware",
@@ -299,7 +319,7 @@
       "title": "Frameworks 🖼"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -308,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160175680,
             "language": "TeX",
             "last_commit": "2024-08-09T14:48:06Z",
             "owner": "THUNLP-MT",
@@ -322,6 +343,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 472201816,
             "language": null,
             "last_commit": "2024-06-07T14:07:11Z",
             "owner": "zhangshaolei1998",
@@ -336,6 +358,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67118710,
             "language": null,
             "last_commit": "2022-07-27T04:23:42Z",
             "owner": "jonsafari",
@@ -350,6 +373,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 155676164,
             "language": null,
             "last_commit": "2020-01-15T06:07:43Z",
             "owner": "yokusama",
@@ -364,6 +388,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 201422268,
             "language": "TeX",
             "last_commit": "2021-09-15T06:42:05Z",
             "owner": "ZihengZZH",
@@ -378,6 +403,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 435124231,
             "language": null,
             "last_commit": "2021-12-06T12:54:21Z",
             "owner": "js-lee-AI",
@@ -392,6 +418,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151175984,
             "language": "HTML",
             "last_commit": "2019-03-18T04:54:00Z",
             "owner": "alphadl",
@@ -406,6 +433,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97186644,
             "language": null,
             "last_commit": "2017-07-14T13:17:52Z",
             "owner": "sanjibnarzary",
@@ -417,12 +445,7 @@
       "title": "Other MT Lists 📝"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Papers 📄"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -431,6 +454,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113225301,
             "language": "PHP",
             "last_commit": "2023-12-19T05:50:20Z",
             "owner": "M4t1ss",
@@ -445,6 +469,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159690342,
             "language": null,
             "last_commit": "2024-11-20T15:08:13Z",
             "owner": "ogun",
@@ -459,6 +484,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158935496,
             "language": "Python",
             "last_commit": "2019-01-18T18:07:14Z",
             "owner": "maidis",
@@ -470,7 +496,7 @@
       "title": "Parallel Texts ⏸️"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -479,6 +505,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 253421138,
             "language": "Python",
             "last_commit": "2026-04-13T21:09:47Z",
             "owner": "thammegowda",
@@ -493,6 +520,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 220001025,
             "language": "Python",
             "last_commit": "2026-07-01T15:28:41Z",
             "owner": "Helsinki-NLP",
@@ -507,6 +535,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113225301,
             "language": "PHP",
             "last_commit": "2023-12-19T05:50:20Z",
             "owner": "M4t1ss",
@@ -521,6 +550,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 325962607,
             "language": null,
             "last_commit": "2022-07-26T20:00:09Z",
             "owner": "ymoslem",
@@ -535,6 +565,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29556605,
             "language": "C++",
             "last_commit": "2020-07-09T12:33:26Z",
             "owner": "M4t1ss",
@@ -546,7 +577,7 @@
       "title": "Tools 🛠"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -555,6 +586,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 95723115,
             "language": "Python",
             "last_commit": "2022-10-09T08:07:34Z",
             "owner": "tensorflow",
@@ -569,6 +601,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64360089,
             "language": "Perl",
             "last_commit": "2016-11-16T18:01:25Z",
             "owner": "neubig",
@@ -581,7 +614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:16:52.240Z",
+    "last_updated": "2026-08-19T09:18:00.731Z",
     "original_repository": "maidis/awesome-machine-translation",
     "original_repository_sha": "8e2093c3d21c597f01e2b51b0cb5ac52ef6fdacf",
     "enhanced_repository": "enhansome/enhansome-machine-translation",
