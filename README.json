@@ -81,7 +81,7 @@
             "last_commit": "2026-08-10T18:51:28Z",
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 16069
+            "stars": 16087
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-08T12:09:57Z",
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6384
+            "stars": 6385
           }
         },
         {
@@ -614,7 +614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T09:21:13.018Z",
+    "last_updated": "2026-08-22T09:12:57.920Z",
     "original_repository": "maidis/awesome-machine-translation",
     "original_repository_id": 160048844,
     "original_repository_sha": "8e2093c3d21c597f01e2b51b0cb5ac52ef6fdacf",
