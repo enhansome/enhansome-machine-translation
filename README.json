@@ -81,7 +81,7 @@
             "last_commit": "2026-08-10T18:51:28Z",
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 16087
+            "stars": 16103
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-08T12:09:57Z",
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6385
+            "stars": 6389
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32233
+            "stars": 32234
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2024-05-12T08:51:04Z",
             "owner": "browsermt",
             "repo": "bergamot-translator",
-            "stars": 539
+            "stars": 540
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2022-07-07T21:02:43Z",
             "owner": "modernmt",
             "repo": "modernmt",
-            "stars": 350
+            "stars": 351
           }
         },
         {
@@ -614,7 +614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T09:12:57.920Z",
+    "last_updated": "2026-08-23T09:12:21.353Z",
     "original_repository": "maidis/awesome-machine-translation",
     "original_repository_id": 160048844,
     "original_repository_sha": "8e2093c3d21c597f01e2b51b0cb5ac52ef6fdacf",
