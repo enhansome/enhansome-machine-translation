@@ -78,10 +78,10 @@
             "archived": false,
             "id": 322921248,
             "language": "Python",
-            "last_commit": "2026-08-10T18:51:28Z",
+            "last_commit": "2026-08-23T22:47:34Z",
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 16103
+            "stars": 16116
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-08T12:09:57Z",
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6389
+            "stars": 6393
           }
         },
         {
@@ -614,7 +614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T09:12:21.353Z",
+    "last_updated": "2026-08-24T09:31:38.308Z",
     "original_repository": "maidis/awesome-machine-translation",
     "original_repository_id": 160048844,
     "original_repository_sha": "8e2093c3d21c597f01e2b51b0cb5ac52ef6fdacf",
