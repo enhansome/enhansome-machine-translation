@@ -81,7 +81,7 @@
             "last_commit": "2026-08-23T22:47:34Z",
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 16122
+            "stars": 16125
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32235
+            "stars": 32234
           }
         },
         {
@@ -614,7 +614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:28:35.792Z",
+    "last_updated": "2026-08-25T09:20:47.636Z",
     "original_repository": "maidis/awesome-machine-translation",
     "original_repository_id": 160048844,
     "original_repository_sha": "8e2093c3d21c597f01e2b51b0cb5ac52ef6fdacf",
