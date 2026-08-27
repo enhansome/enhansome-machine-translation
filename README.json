@@ -81,7 +81,7 @@
             "last_commit": "2026-08-23T22:47:34Z",
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 16131
+            "stars": 16137
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-08T12:09:57Z",
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6399
+            "stars": 6403
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2025-03-30T19:11:35Z",
             "owner": "XapaJIaMnu",
             "repo": "translateLocally",
-            "stars": 621
+            "stars": 623
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2024-05-12T08:51:04Z",
             "owner": "browsermt",
             "repo": "bergamot-translator",
-            "stars": 540
+            "stars": 541
           }
         },
         {
@@ -471,7 +471,7 @@
             "archived": false,
             "id": 159690342,
             "language": null,
-            "last_commit": "2024-11-20T15:08:13Z",
+            "last_commit": "2026-08-26T10:44:22Z",
             "owner": "ogun",
             "repo": "ab-ilerleme-raporlari",
             "stars": 5
@@ -614,9 +614,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:26:13.354Z",
-    "original_repository": "maidis/awesome-machine-translation",
-    "original_repository_id": 160048844,
+    "last_updated": "2026-08-27T11:49:47.916Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 160048844,
+      "language": null,
+      "last_commit": "2024-07-15T18:28:33Z",
+      "owner": "maidis",
+      "repo": "awesome-machine-translation",
+      "stars": 204
+    },
     "original_repository_sha": "8e2093c3d21c597f01e2b51b0cb5ac52ef6fdacf",
     "enhanced_repository": "enhansome/enhansome-machine-translation",
     "enhanced_repository_description": null,
