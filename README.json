@@ -16,7 +16,8 @@
             "owner": "rsennrich",
             "repo": "Bleualign",
             "stars": 313
-          }
+          },
+          "first_seen": "2026-08-28T20:26:02.841Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "thompsonb",
             "repo": "vecalign",
             "stars": 200
-          }
+          },
+          "first_seen": "2026-08-28T20:26:02.841Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "machinalis",
             "repo": "yalign",
             "stars": 131
-          }
+          },
+          "first_seen": "2026-08-28T20:26:02.841Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "bitextor",
             "repo": "bleualign-cpp",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T20:26:02.841Z"
         }
       ],
       "title": "Aligners 🌌"
@@ -81,8 +85,9 @@
             "last_commit": "2026-08-23T22:47:34Z",
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 16140
-          }
+            "stars": 16150
+          },
+          "first_seen": "2026-08-28T20:26:02.841Z"
         },
         {
           "node_type": "item",
@@ -96,8 +101,9 @@
             "last_commit": "2026-08-08T12:09:57Z",
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6404
-          }
+            "stars": 6407
+          },
+          "first_seen": "2026-08-28T20:26:02.841Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "XapaJIaMnu",
             "repo": "translateLocally",
             "stars": 623
-          }
+          },
+          "first_seen": "2026-08-28T20:26:02.841Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "ymoslem",
             "repo": "DesktopTranslator",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-28T20:26:02.841Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "lernapparat",
             "repo": "lotranslate",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T20:26:02.841Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "fantinuoli",
             "repo": "Local-NMT",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T20:26:02.841Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "ymoslem",
             "repo": "CTranslate-NMT-Web-Interface",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T20:26:02.841Z"
         }
       ],
       "title": "Applications 💻"
@@ -193,7 +204,8 @@
             "owner": "facebookresearch",
             "repo": "fairseq",
             "stars": 32232
-          }
+          },
+          "first_seen": "2026-08-28T20:26:02.841Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "awslabs",
             "repo": "sockeye",
             "stars": 1215
-          }
+          },
+          "first_seen": "2026-08-28T20:26:02.841Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "EdinburghNLP",
             "repo": "nematus",
             "stars": 804
-          }
+          },
+          "first_seen": "2026-08-28T20:26:02.841Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "joeynmt",
             "repo": "joeynmt",
             "stars": 709
-          }
+          },
+          "first_seen": "2026-08-28T20:26:02.841Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "browsermt",
             "repo": "bergamot-translator",
             "stars": 541
-          }
+          },
+          "first_seen": "2026-08-28T20:26:02.841Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "modernmt",
             "repo": "modernmt",
             "stars": 351
-          }
+          },
+          "first_seen": "2026-08-28T20:26:02.841Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "NiuTrans",
             "repo": "NiuTrans.SMT",
             "stars": 163
-          }
+          },
+          "first_seen": "2026-08-28T20:26:02.841Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "NiuTrans",
             "repo": "NiuTrans.NMT",
             "stars": 147
-          }
+          },
+          "first_seen": "2026-08-28T20:26:02.841Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "StarlangSoftware",
             "repo": "EnglishTurkishTranslation-CPP",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:26:02.841Z"
         }
       ],
       "title": "Frameworks 🖼"
@@ -334,7 +354,8 @@
             "owner": "THUNLP-MT",
             "repo": "MT-Reading-List",
             "stars": 2433
-          }
+          },
+          "first_seen": "2026-08-28T20:26:02.841Z"
         },
         {
           "node_type": "item",
@@ -349,7 +370,8 @@
             "owner": "zhangshaolei1998",
             "repo": "Awesome-Simultaneous-Translation",
             "stars": 578
-          }
+          },
+          "first_seen": "2026-08-28T20:26:02.841Z"
         },
         {
           "node_type": "item",
@@ -364,7 +386,8 @@
             "owner": "jonsafari",
             "repo": "nmt-list",
             "stars": 364
-          }
+          },
+          "first_seen": "2026-08-28T20:26:02.841Z"
         },
         {
           "node_type": "item",
@@ -379,7 +402,8 @@
             "owner": "yokusama",
             "repo": "NMT_Papers",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T20:26:02.841Z"
         },
         {
           "node_type": "item",
@@ -394,7 +418,8 @@
             "owner": "ZihengZZH",
             "repo": "awesome-multimodal-machine-translation",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T20:26:02.841Z"
         },
         {
           "node_type": "item",
@@ -409,7 +434,8 @@
             "owner": "js-lee-AI",
             "repo": "Awesome_SimultaneousTranslation",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T20:26:02.841Z"
         },
         {
           "node_type": "item",
@@ -424,7 +450,8 @@
             "owner": "alphadl",
             "repo": "inspiring_papers",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T20:26:02.841Z"
         },
         {
           "node_type": "item",
@@ -439,7 +466,8 @@
             "owner": "sanjibnarzary",
             "repo": "awesome-nmt",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T20:26:02.841Z"
         }
       ],
       "title": "Other MT Lists 📝"
@@ -460,7 +488,8 @@
             "owner": "M4t1ss",
             "repo": "parallel-corpora-tools",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T20:26:02.841Z"
         },
         {
           "node_type": "item",
@@ -475,7 +504,8 @@
             "owner": "ogun",
             "repo": "ab-ilerleme-raporlari",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T20:26:02.841Z"
         },
         {
           "node_type": "item",
@@ -490,7 +520,8 @@
             "owner": "maidis",
             "repo": "turkish-parallel-corpora",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:26:02.841Z"
         }
       ],
       "title": "Parallel Texts ⏸️"
@@ -511,7 +542,8 @@
             "owner": "thammegowda",
             "repo": "mtdata",
             "stars": 167
-          }
+          },
+          "first_seen": "2026-08-28T20:26:02.841Z"
         },
         {
           "node_type": "item",
@@ -526,7 +558,8 @@
             "owner": "Helsinki-NLP",
             "repo": "OpusFilter",
             "stars": 116
-          }
+          },
+          "first_seen": "2026-08-28T20:26:02.841Z"
         },
         {
           "node_type": "item",
@@ -541,7 +574,8 @@
             "owner": "M4t1ss",
             "repo": "parallel-corpora-tools",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T20:26:02.841Z"
         },
         {
           "node_type": "item",
@@ -556,7 +590,8 @@
             "owner": "ymoslem",
             "repo": "MT-Tools",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T20:26:02.841Z"
         },
         {
           "node_type": "item",
@@ -571,7 +606,8 @@
             "owner": "M4t1ss",
             "repo": "MWE-Tools",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T20:26:02.841Z"
         }
       ],
       "title": "Tools 🛠"
@@ -592,7 +628,8 @@
             "owner": "tensorflow",
             "repo": "nmt",
             "stars": 6454
-          }
+          },
+          "first_seen": "2026-08-28T20:26:02.841Z"
         },
         {
           "node_type": "item",
@@ -607,14 +644,15 @@
             "owner": "neubig",
             "repo": "nmt-tips",
             "stars": 369
-          }
+          },
+          "first_seen": "2026-08-28T20:26:02.841Z"
         }
       ],
       "title": "Tutorials and Blogs 🎒"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:16:41.941Z",
+    "last_updated": "2026-08-28T20:26:02.841Z",
     "original_repository_info": {
       "archived": false,
       "id": 160048844,
