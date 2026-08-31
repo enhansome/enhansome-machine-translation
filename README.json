@@ -112,7 +112,7 @@
             "open_issues": 124,
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 16230,
+            "stars": 16258,
             "topics": [
               "api",
               "machine",
@@ -136,10 +136,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-08T12:09:57Z",
-            "open_issues": 161,
+            "open_issues": 160,
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6415,
+            "stars": 6421,
             "topics": [
               "language-models",
               "linux",
@@ -169,7 +169,7 @@
             "open_issues": 53,
             "owner": "XapaJIaMnu",
             "repo": "translateLocally",
-            "stars": 624,
+            "stars": 626,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:02.841Z"
@@ -288,7 +288,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32231,
+            "stars": 32228,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -313,7 +313,7 @@
             "open_issues": 12,
             "owner": "awslabs",
             "repo": "sockeye",
-            "stars": 1215,
+            "stars": 1216,
             "topics": [
               "attention-is-all-you-need",
               "attention-mechanism",
@@ -415,7 +415,7 @@
             "open_issues": 57,
             "owner": "browsermt",
             "repo": "bergamot-translator",
-            "stars": 542,
+            "stars": 546,
             "topics": [
               "cpp",
               "cross-platform",
@@ -446,7 +446,7 @@
             "open_issues": 68,
             "owner": "modernmt",
             "repo": "modernmt",
-            "stars": 351,
+            "stars": 352,
             "topics": [
               "machine-learning",
               "machine-translation",
@@ -1005,7 +1005,7 @@
             "open_issues": 273,
             "owner": "tensorflow",
             "repo": "nmt",
-            "stars": 6454,
+            "stars": 6453,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:02.841Z"
@@ -1036,7 +1036,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T14:00:50.915Z",
+    "last_updated": "2026-08-31T16:24:43.714Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Machine Translation frameworks, libraries, software and papers",
