@@ -109,10 +109,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-02T03:52:25Z",
-            "open_issues": 124,
+            "open_issues": 125,
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 16274,
+            "stars": 16285,
             "topics": [
               "api",
               "machine",
@@ -136,10 +136,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-08T12:09:57Z",
-            "open_issues": 160,
+            "open_issues": 161,
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6421,
+            "stars": 6424,
             "topics": [
               "language-models",
               "linux",
@@ -169,7 +169,7 @@
             "open_issues": 53,
             "owner": "XapaJIaMnu",
             "repo": "translateLocally",
-            "stars": 626,
+            "stars": 627,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:02.841Z"
@@ -190,7 +190,7 @@
             "open_issues": 7,
             "owner": "ymoslem",
             "repo": "DesktopTranslator",
-            "stars": 100,
+            "stars": 101,
             "topics": [
               "gui-application",
               "neural-machine-translation",
@@ -288,7 +288,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32229,
+            "stars": 32230,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -446,7 +446,7 @@
             "open_issues": 68,
             "owner": "modernmt",
             "repo": "modernmt",
-            "stars": 352,
+            "stars": 353,
             "topics": [
               "machine-learning",
               "machine-translation",
@@ -1036,7 +1036,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T12:59:42.709Z",
+    "last_updated": "2026-09-03T13:01:40.350Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Machine Translation frameworks, libraries, software and papers",
