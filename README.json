@@ -112,7 +112,7 @@
             "open_issues": 125,
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 16290,
+            "stars": 16295,
             "topics": [
               "api",
               "machine",
@@ -139,7 +139,7 @@
             "open_issues": 161,
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6427,
+            "stars": 6431,
             "topics": [
               "language-models",
               "linux",
@@ -503,7 +503,7 @@
             "open_issues": 4,
             "owner": "NiuTrans",
             "repo": "NiuTrans.NMT",
-            "stars": 147,
+            "stars": 146,
             "topics": [
               "fast-decoding",
               "machine-translation",
@@ -1036,7 +1036,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T12:57:07.872Z",
+    "last_updated": "2026-09-05T12:08:03.524Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Machine Translation frameworks, libraries, software and papers",
