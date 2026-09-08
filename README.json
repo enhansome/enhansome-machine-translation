@@ -112,7 +112,7 @@
             "open_issues": 125,
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 16313,
+            "stars": 16320,
             "topics": [
               "api",
               "machine",
@@ -139,7 +139,7 @@
             "open_issues": 161,
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6444,
+            "stars": 6445,
             "topics": [
               "language-models",
               "linux",
@@ -288,7 +288,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32231,
+            "stars": 32230,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -353,7 +353,7 @@
             "open_issues": 10,
             "owner": "EdinburghNLP",
             "repo": "nematus",
-            "stars": 804,
+            "stars": 805,
             "topics": [
               "machine-translation",
               "mt",
@@ -415,7 +415,7 @@
             "open_issues": 57,
             "owner": "browsermt",
             "repo": "bergamot-translator",
-            "stars": 547,
+            "stars": 548,
             "topics": [
               "cpp",
               "cross-platform",
@@ -563,7 +563,7 @@
             "open_issues": 4,
             "owner": "THUNLP-MT",
             "repo": "MT-Reading-List",
-            "stars": 2433,
+            "stars": 2432,
             "topics": [
               "machine-translation",
               "reading-list"
@@ -1036,7 +1036,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T14:29:02.364Z",
+    "last_updated": "2026-09-08T13:05:44.343Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Machine Translation frameworks, libraries, software and papers",
