@@ -109,10 +109,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-03T17:05:31Z",
-            "open_issues": 126,
+            "open_issues": 128,
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 16524,
+            "stars": 16625,
             "topics": [
               "api",
               "machine",
@@ -139,7 +139,7 @@
             "open_issues": 161,
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6463,
+            "stars": 6467,
             "topics": [
               "language-models",
               "linux",
@@ -1036,7 +1036,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T15:16:37.873Z",
+    "last_updated": "2026-09-15T13:53:36.859Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Machine Translation frameworks, libraries, software and papers",
