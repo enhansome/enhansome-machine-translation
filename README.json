@@ -43,7 +43,7 @@
             "open_issues": 2,
             "owner": "thompsonb",
             "repo": "vecalign",
-            "stars": 200,
+            "stars": 201,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:02.841Z"
@@ -109,10 +109,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-03T17:05:31Z",
-            "open_issues": 126,
+            "open_issues": 127,
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 16707,
+            "stars": 16715,
             "topics": [
               "api",
               "machine",
@@ -139,7 +139,7 @@
             "open_issues": 161,
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6495,
+            "stars": 6501,
             "topics": [
               "language-models",
               "linux",
@@ -288,7 +288,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32221,
+            "stars": 32223,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -882,7 +882,7 @@
             "id": 220001025,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-16T12:34:05Z",
+            "last_commit": "2026-09-23T13:39:31Z",
             "open_issues": 5,
             "owner": "Helsinki-NLP",
             "repo": "OpusFilter",
@@ -1036,7 +1036,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T13:41:38.197Z",
+    "last_updated": "2026-09-23T13:53:45.697Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Machine Translation frameworks, libraries, software and papers",
