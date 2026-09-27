@@ -112,7 +112,7 @@
             "open_issues": 128,
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 16848,
+            "stars": 16860,
             "topics": [
               "api",
               "machine",
@@ -1036,7 +1036,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T13:24:15.998Z",
+    "last_updated": "2026-09-27T14:19:30.434Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Machine Translation frameworks, libraries, software and papers",
