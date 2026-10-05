@@ -39,8 +39,8 @@ You can also find an updated list of machine translation frameworks, libraries, 
 
 ## Applications 💻
 
-* [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) ⭐ 16,982 | 🐛 127 | 🌐 Python | 📅 2026-09-28 - A free and open source machine translation API.
-* [Argos Translate](https://github.com/argosopentech/argos-translate) ⭐ 6,524 | 🐛 164 | 🌐 Python | 📅 2026-08-08 - An open-source offline translation library written in Python. Uses OpenNMT for translations, SentencePiece for tokenization, Stanza for sentence boundary detection, and PyQt for GUI.
+* [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) ⭐ 16,991 | 🐛 127 | 🌐 Python | 📅 2026-09-28 - A free and open source machine translation API.
+* [Argos Translate](https://github.com/argosopentech/argos-translate) ⭐ 6,531 | 🐛 164 | 🌐 Python | 📅 2026-08-08 - An open-source offline translation library written in Python. Uses OpenNMT for translations, SentencePiece for tokenization, Stanza for sentence boundary detection, and PyQt for GUI.
 * [translateLocally](https://github.com/XapaJIaMnu/translateLocally) ⭐ 633 | 🐛 53 | 🌐 C++ | 📅 2025-03-30 - A fast and secure translation on your local machine, powered by marian and Bergamot.
 * [DesktopTranslator](https://github.com/ymoslem/DesktopTranslator) ⭐ 101 | 🐛 7 | 🌐 Python | 📅 2024-01-09 - A local cross-platform machine translation GUI, based on CTranslate2.
 * [LibreOffice Translate](https://github.com/lernapparat/lotranslate) ⭐ 72 | 🐛 3 | 🌐 Python | 📅 2020-11-04 - An extension providing neural machine translation for LibreOffice with a single click.
@@ -118,7 +118,7 @@ You can also find an updated list of machine translation frameworks, libraries, 
 ## Other MT Lists 📝
 
 * [MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List) ⭐ 2,430 | 🐛 4 | 🌐 TeX | 📅 2024-08-09 - A machine translation reading list maintained by the Tsinghua Natural Language Processing Group.
-* [Awesome Simultaneous Translation](https://github.com/Vily1998/Awesome-Simultaneous-Translation) ⭐ 578 | 🐛 2 | 📅 2024-06-07 - Paper list of Simultaneous Translation Research, including both text-to-text machine translation and speech-to-text translation.
+* [Awesome Simultaneous Translation](https://github.com/Vily1998/Awesome-Simultaneous-Translation) ⭐ 576 | 🐛 2 | 📅 2024-06-07 - Paper list of Simultaneous Translation Research, including both text-to-text machine translation and speech-to-text translation.
 * [Neural Machine Translation Implementations](https://github.com/jonsafari/nmt-list) ⭐ 364 | 🐛 3 | 📅 2022-07-27 - A list of Neural MT implementations.
 * [NMT Papers](https://github.com/yokusama/NMT_Papers) ⭐ 85 | 🐛 0 | 📅 2020-01-15 - Some papers about NMT.
 * [Awesome-Multimodal-Machine-Translation](https://github.com/ZihengZZH/awesome-multimodal-machine-translation) ⭐ 34 | 🐛 0 | 🌐 TeX | 📅 2021-09-15 - A curated list of awesome papers, datasets and tutorials within Multimodal Machine Learning.
@@ -159,4 +159,4 @@ You can also find an updated list of machine translation frameworks, libraries, 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
