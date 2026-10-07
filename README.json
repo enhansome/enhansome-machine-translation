@@ -112,7 +112,7 @@
             "open_issues": 127,
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 16994,
+            "stars": 16999,
             "topics": [
               "api",
               "machine",
@@ -139,7 +139,7 @@
             "open_issues": 165,
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6531,
+            "stars": 6534,
             "topics": [
               "language-models",
               "linux",
@@ -676,6 +676,35 @@
         },
         {
           "node_type": "item",
+          "title": "Awesome New Languages in Machine Translation",
+          "description": "A list of initiatives for supporting MT for new languages (mostly lower-resourced ones).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A list of initiatives for adding new languages to opensource machine translation models",
+            "homepage": null,
+            "id": 859169367,
+            "language": null,
+            "license": "CC0-1.0",
+            "last_commit": "2026-08-19T15:41:22Z",
+            "open_issues": 0,
+            "owner": "openlanguagedata",
+            "repo": "awesome-new-languages-in-machine-translation",
+            "stars": 23,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "awesome-lists",
+              "languages",
+              "machine-translation",
+              "multilinguality",
+              "translation"
+            ]
+          },
+          "first_seen": "2026-10-07T15:48:29.350Z"
+        },
+        {
+          "node_type": "item",
           "title": "Awosome Simultaneous Translation",
           "description": "Awesome papers and codes for Simultaneous Machine Translation.",
           "children": [],
@@ -939,6 +968,46 @@
         },
         {
           "node_type": "item",
+          "title": "ai-i18n",
+          "description": "GitHub Action that automatically translates i18n files (XLIFF, JSON) using LLM providers (Anthropic, OpenAI, Ollama) with glossary support and change detection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ai-i18n is a GitHub Action that translates your app's i18n files using LLMs. It extracts strings, translates only what's changed, and commits the results back to your repo. Works with your LLM provider (Anthropic, OpenAI, Ollama, AWS Bedrock) and multiple i18n formats (XLIFF, JSON). A drop-in replacement for Lokalise, Phrase, and Crowdin.",
+            "homepage": null,
+            "id": 1142985958,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-08-19T16:14:38Z",
+            "open_issues": 0,
+            "owner": "i18n-actions",
+            "repo": "ai-i18n",
+            "stars": 19,
+            "topics": [
+              "ai",
+              "angular",
+              "angular-i18n",
+              "anthropic",
+              "aws",
+              "bedrock",
+              "crowdin",
+              "github-actions",
+              "i18n",
+              "internationalization",
+              "llm",
+              "localization",
+              "lokalise",
+              "open-source",
+              "openai",
+              "phrase",
+              "react-intl",
+              "vue-i18n"
+            ]
+          },
+          "first_seen": "2026-10-07T15:48:29.350Z"
+        },
+        {
+          "node_type": "item",
           "title": "MT-Tools",
           "description": "A collection of common machine translation tools.",
           "children": [],
@@ -1036,7 +1105,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T15:28:59.388Z",
+    "last_updated": "2026-10-07T15:48:29.350Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Machine Translation frameworks, libraries, software and papers",
@@ -1044,8 +1113,8 @@
       "id": 160048844,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2024-07-15T18:28:33Z",
-      "open_issues": 8,
+      "last_commit": "2026-10-07T10:53:08Z",
+      "open_issues": 3,
       "owner": "maidis",
       "repo": "awesome-machine-translation",
       "stars": 202,
@@ -1059,7 +1128,7 @@
         "statistical-machine-translation"
       ]
     },
-    "original_repository_sha": "8e2093c3d21c597f01e2b51b0cb5ac52ef6fdacf",
+    "original_repository_sha": "a1d2cd3e68ceee3ece23d0ab17a0ab34feb68ef1",
     "enhanced_repository": "enhansome/enhansome-machine-translation",
     "enhanced_repository_description": null,
     "title": "Awesome Machine Translation with stars"

@@ -1,6 +1,6 @@
 # Awesome Machine Translation with stars
 
-A list of awesome Machine Translation frameworks, libraries, software and papers. Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,533 | 🐛 21 | 🌐 Python | 📅 2026-09-30.
+A list of awesome Machine Translation frameworks, libraries, software and papers. Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,536 | 🐛 22 | 🌐 Python | 📅 2026-09-30.
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@anilozbek](https://twitter.com/anilozbek). Also, a listed repository should be deprecated if:
 
@@ -39,8 +39,8 @@ You can also find an updated list of machine translation frameworks, libraries, 
 
 ## Applications 💻
 
-* [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) ⭐ 16,994 | 🐛 127 | 🌐 Python | 📅 2026-09-28 - A free and open source machine translation API.
-* [Argos Translate](https://github.com/argosopentech/argos-translate) ⭐ 6,531 | 🐛 165 | 🌐 Python | 📅 2026-08-08 - An open-source offline translation library written in Python. Uses OpenNMT for translations, SentencePiece for tokenization, Stanza for sentence boundary detection, and PyQt for GUI.
+* [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) ⭐ 16,999 | 🐛 127 | 🌐 Python | 📅 2026-09-28 - A free and open source machine translation API.
+* [Argos Translate](https://github.com/argosopentech/argos-translate) ⭐ 6,534 | 🐛 165 | 🌐 Python | 📅 2026-08-08 - An open-source offline translation library written in Python. Uses OpenNMT for translations, SentencePiece for tokenization, Stanza for sentence boundary detection, and PyQt for GUI.
 * [translateLocally](https://github.com/XapaJIaMnu/translateLocally) ⭐ 632 | 🐛 53 | 🌐 C++ | 📅 2025-03-30 - A fast and secure translation on your local machine, powered by marian and Bergamot.
 * [DesktopTranslator](https://github.com/ymoslem/DesktopTranslator) ⭐ 101 | 🐛 7 | 🌐 Python | 📅 2024-01-09 - A local cross-platform machine translation GUI, based on CTranslate2.
 * [LibreOffice Translate](https://github.com/lernapparat/lotranslate) ⭐ 72 | 🐛 3 | 🌐 Python | 📅 2020-11-04 - An extension providing neural machine translation for LibreOffice with a single click.
@@ -62,16 +62,19 @@ You can also find an updated list of machine translation frameworks, libraries, 
 * [Syntax-based Statistical Machine Translation](https://www.amazon.com/Syntax-based-Statistical-Translation-Synthesis-Technologies/dp/1627059008) - [Philip Williams](http://homepages.inf.ed.ac.uk/s0898777/), [Rico Sennrich](http://homepages.inf.ed.ac.uk/rsennric/), [Matt Post](https://mjpost.github.io/), [Philipp Koehn](http://www.cs.jhu.edu/~phi/) - 2016 - A comprehensive introduction to the syntax-based statistical machine translation models.
 * [Makine Çevirisi](https://www.amazon.com.tr/Makine-%C3%87evirisi-Erdin%C3%A7-Aslan/dp/6052814187) - [Erdinç Aslan](https://avesis.marmara.edu.tr/erdinc.aslan) - 2019 - Turkish - A book that will provide a good introduction to students taking courses such as Translation Technologies and those starting to work in the field of machine translation.
 * [Neural Machine Translation](https://www.amazon.com/Neural-Machine-Translation-Philipp-Koehn/dp/1108497322) - [Philipp Koehn](https://github.com/phikoehn) - 2020 - A book that introduces the challenge of machine translation and evaluation, including historical, linguistic, and applied context, then develops the core deep learning methods used for natural language applications.
-* [Machine Translation: Foundations and Models](https://github.com/NiuTrans/MTBook) ⭐ 2,794 | 🐛 4 | 🌐 TeX | 📅 2024-09-14 - Tong Xiao, Jingbo Zhu - 2020... - Chinese - A book that gives a systematic introduction to the basic knowledge and modeling methods of machine translation, and on this basis, discuss some cutting-edge technologies of machine translation. It can be used for the study of senior undergraduates and graduate students in computer and artificial intelligence related majors, and can also be used as a reference material for researchers related to natural language processing, especially machine translation.
+* [Machine Translation: Foundations and Models](https://github.com/NiuTrans/MTBook) ⭐ 2,793 | 🐛 4 | 🌐 TeX | 📅 2024-09-14 - Tong Xiao, Jingbo Zhu - 2020... - Chinese - A book that gives a systematic introduction to the basic knowledge and modeling methods of machine translation, and on this basis, discuss some cutting-edge technologies of machine translation. It can be used for the study of senior undergraduates and graduate students in computer and artificial intelligence related majors, and can also be used as a reference material for researchers related to natural language processing, especially machine translation.
 
 ## Companies and Paid Services 💰
 
+* [Apertera](https://apertera.com/services/ai-translations/) - Adaptive AI translation built for legal, financial, and regulatory content.
 * [KantanAI](https://www.kantanai.io/) - A SaaS-based Machine Translation platform.
 * [Lingua Custodia](https://www.linguacustodia.finance/) - A machine translation company specializes in finance.
+* [NitroTranslate](https://nitrotranslate.com) - Professional human translation via API (not machine); AI agents can order and pay autonomously via the Machine Payments Protocol (MPP).
 * [SYSTRAN](http://www.systransoft.com/) - One of the oldest machine translation companies.
 * [SDL Machine Translation](https://www.sdl.com/software-and-services/translation-software/machine-translation/) - Neural and statistical based machine translation services.
 * [Unbabel](https://unbabel.com/) - A company that provides AI-powered, human-refined translation for customer support.
 * [Waverly Labs](https://www.waverlylabs.com/) - A tech startup in NYC at the convergence of wearable technology and machine translation.
+* [ForgeFile](https://forgefile.com/) - A web platform for machine translation of documents and localization files that keeps layout and file structure intact.
 
 ## Frameworks 🖼
 
@@ -122,6 +125,7 @@ You can also find an updated list of machine translation frameworks, libraries, 
 * [Neural Machine Translation Implementations](https://github.com/jonsafari/nmt-list) ⭐ 364 | 🐛 3 | 📅 2022-07-27 - A list of Neural MT implementations.
 * [NMT Papers](https://github.com/yokusama/NMT_Papers) ⭐ 85 | 🐛 0 | 📅 2020-01-15 - Some papers about NMT.
 * [Awesome-Multimodal-Machine-Translation](https://github.com/ZihengZZH/awesome-multimodal-machine-translation) ⭐ 34 | 🐛 0 | 🌐 TeX | 📅 2021-09-15 - A curated list of awesome papers, datasets and tutorials within Multimodal Machine Learning.
+* [Awesome New Languages in Machine Translation](https://github.com/slone-nlp/awesome-new-languages-in-machine-translation) ⭐ 23 | 🐛 0 | 📅 2026-08-19 - A list of initiatives for supporting MT for new languages (mostly lower-resourced ones).
 * [Awosome Simultaneous Translation](https://github.com/js-lee-AI/Awesome_SimultaneousTranslation) ⭐ 15 | 🐛 0 | 📅 2021-12-06 - Awesome papers and codes for Simultaneous Machine Translation.
 * [inspiring\_papers](https://github.com/alphadl/inspiring_papers) ⭐ 7 | 🐛 0 | 🌐 HTML | 📅 2019-03-18 - Papers related to machine translation.
 * [awesome-nmt](https://github.com/sanjibnarzary/awesome-nmt) ⭐ 5 | 🐛 0 | 📅 2017-07-14 - A curated list of useful paper, tools, tutorials, data, conferences, journals for neural machine translation.
@@ -144,6 +148,7 @@ You can also find an updated list of machine translation frameworks, libraries, 
 * [MTData](https://github.com/thammegowda/mtdata) ⭐ 167 | 🐛 20 | 🌐 Python | 📅 2026-04-13 - A tool that locates, downloads, and extracts machine translation corpora.
 * [OpusFilter](https://github.com/Helsinki-NLP/OpusFilter) ⭐ 116 | 🐛 5 | 🌐 Python | 📅 2026-09-30 - A tool for filtering and combining parallel corpora.
 * [Corpora Cleaning Tools](https://github.com/M4t1ss/parallel-corpora-tools) ⭐ 42 | 🐛 1 | 🌐 PHP | 📅 2023-12-19 - Tools for filtering and cleaning parallel and monolingual corpora in order to train better (neural) machine translation systems.
+* [ai-i18n](https://github.com/i18n-actions/ai-i18n) ⭐ 19 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-19 - GitHub Action that automatically translates i18n files (XLIFF, JSON) using LLM providers (Anthropic, OpenAI, Ollama) with glossary support and change detection.
 * [MT-Tools](https://github.com/ymoslem/MT-Tools) ⭐ 11 | 🐛 0 | 📅 2022-07-26 - A collection of common machine translation tools.
 * [Multiword Expression Tools](https://github.com/M4t1ss/MWE-Tools) ⭐ 8 | 🐛 0 | 🌐 C++ | 📅 2020-07-09 - Tools for use with multiword expression extraction from parallel corpora for Moses statistical machine translation system.
 * [SMT Corpus Tools](https://smt-corpus-tools.readthedocs.io) - A tool set to process corpus files for machine translation.
@@ -159,4 +164,4 @@ You can also find an updated list of machine translation frameworks, libraries, 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
