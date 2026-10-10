@@ -1,6 +1,6 @@
 # Awesome Machine Translation with stars
 
-A list of awesome Machine Translation frameworks, libraries, software and papers. Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,555 | 🐛 23 | 🌐 Python | 📅 2026-10-07.
+A list of awesome Machine Translation frameworks, libraries, software and papers. Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,565 | 🐛 23 | 🌐 Python | 📅 2026-10-09.
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@anilozbek](https://twitter.com/anilozbek). Also, a listed repository should be deprecated if:
 
@@ -39,8 +39,8 @@ You can also find an updated list of machine translation frameworks, libraries, 
 
 ## Applications 💻
 
-* [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) ⭐ 17,010 | 🐛 127 | 🌐 Python | 📅 2026-09-28 - A free and open source machine translation API.
-* [Argos Translate](https://github.com/argosopentech/argos-translate) ⭐ 6,543 | 🐛 165 | 🌐 Python | 📅 2026-08-08 - An open-source offline translation library written in Python. Uses OpenNMT for translations, SentencePiece for tokenization, Stanza for sentence boundary detection, and PyQt for GUI.
+* [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) ⭐ 17,019 | 🐛 127 | 🌐 Python | 📅 2026-09-28 - A free and open source machine translation API.
+* [Argos Translate](https://github.com/argosopentech/argos-translate) ⭐ 6,547 | 🐛 165 | 🌐 Python | 📅 2026-08-08 - An open-source offline translation library written in Python. Uses OpenNMT for translations, SentencePiece for tokenization, Stanza for sentence boundary detection, and PyQt for GUI.
 * [translateLocally](https://github.com/XapaJIaMnu/translateLocally) ⭐ 634 | 🐛 53 | 🌐 C++ | 📅 2025-03-30 - A fast and secure translation on your local machine, powered by marian and Bergamot.
 * [DesktopTranslator](https://github.com/ymoslem/DesktopTranslator) ⭐ 101 | 🐛 7 | 🌐 Python | 📅 2024-01-09 - A local cross-platform machine translation GUI, based on CTranslate2.
 * [LibreOffice Translate](https://github.com/lernapparat/lotranslate) ⭐ 72 | 🐛 3 | 🌐 Python | 📅 2020-11-04 - An extension providing neural machine translation for LibreOffice with a single click.
@@ -62,7 +62,7 @@ You can also find an updated list of machine translation frameworks, libraries, 
 * [Syntax-based Statistical Machine Translation](https://www.amazon.com/Syntax-based-Statistical-Translation-Synthesis-Technologies/dp/1627059008) - [Philip Williams](http://homepages.inf.ed.ac.uk/s0898777/), [Rico Sennrich](http://homepages.inf.ed.ac.uk/rsennric/), [Matt Post](https://mjpost.github.io/), [Philipp Koehn](http://www.cs.jhu.edu/~phi/) - 2016 - A comprehensive introduction to the syntax-based statistical machine translation models.
 * [Makine Çevirisi](https://www.amazon.com.tr/Makine-%C3%87evirisi-Erdin%C3%A7-Aslan/dp/6052814187) - [Erdinç Aslan](https://avesis.marmara.edu.tr/erdinc.aslan) - 2019 - Turkish - A book that will provide a good introduction to students taking courses such as Translation Technologies and those starting to work in the field of machine translation.
 * [Neural Machine Translation](https://www.amazon.com/Neural-Machine-Translation-Philipp-Koehn/dp/1108497322) - [Philipp Koehn](https://github.com/phikoehn) - 2020 - A book that introduces the challenge of machine translation and evaluation, including historical, linguistic, and applied context, then develops the core deep learning methods used for natural language applications.
-* [Machine Translation: Foundations and Models](https://github.com/NiuTrans/MTBook) ⭐ 2,793 | 🐛 4 | 🌐 TeX | 📅 2024-09-14 - Tong Xiao, Jingbo Zhu - 2020... - Chinese - A book that gives a systematic introduction to the basic knowledge and modeling methods of machine translation, and on this basis, discuss some cutting-edge technologies of machine translation. It can be used for the study of senior undergraduates and graduate students in computer and artificial intelligence related majors, and can also be used as a reference material for researchers related to natural language processing, especially machine translation.
+* [Machine Translation: Foundations and Models](https://github.com/NiuTrans/MTBook) ⭐ 2,795 | 🐛 4 | 🌐 TeX | 📅 2024-09-14 - Tong Xiao, Jingbo Zhu - 2020... - Chinese - A book that gives a systematic introduction to the basic knowledge and modeling methods of machine translation, and on this basis, discuss some cutting-edge technologies of machine translation. It can be used for the study of senior undergraduates and graduate students in computer and artificial intelligence related majors, and can also be used as a reference material for researchers related to natural language processing, especially machine translation.
 
 ## Companies and Paid Services 💰
 
@@ -79,7 +79,7 @@ You can also find an updated list of machine translation frameworks, libraries, 
 ## Frameworks 🖼
 
 * [fairseq](https://github.com/pytorch/fairseq) ⚠️ Archived - A sequence modeling toolkit to train custom models for translation, summarization, language modeling and other text generation tasks.
-* [Sockeye](https://github.com/awslabs/sockeye) ⭐ 1,216 | 🐛 12 | 🌐 Python | 📅 2024-10-24 - A sequence-to-sequence framework with a focus on Neural Machine Translation based on PyTorch.
+* [Sockeye](https://github.com/awslabs/sockeye) ⭐ 1,217 | 🐛 12 | 🌐 Python | 📅 2024-10-24 - A sequence-to-sequence framework with a focus on Neural Machine Translation based on PyTorch.
 * [Nematus](https://github.com/EdinburghNLP/nematus) ⭐ 805 | 🐛 10 | 🌐 Python | 📅 2022-12-09 - Attention-based encoder-decoder model for neural machine translation built in Tensorflow.
 * [Joey NMT](https://github.com/joeynmt/joeynmt) ⭐ 711 | 🐛 12 | 🌐 Python | 📅 2024-01-29 - A minimalist NMT for educational purposes.
 * [Bergamot](https://github.com/browsermt/bergamot-translator) ⭐ 550 | 🐛 57 | 🌐 C++ | 📅 2024-05-12 - Cross platform C++ library focusing on optimized machine translation on the consumer-grade device.
@@ -121,7 +121,7 @@ You can also find an updated list of machine translation frameworks, libraries, 
 ## Other MT Lists 📝
 
 * [MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List) ⭐ 2,430 | 🐛 4 | 🌐 TeX | 📅 2024-08-09 - A machine translation reading list maintained by the Tsinghua Natural Language Processing Group.
-* [Awesome Simultaneous Translation](https://github.com/Vily1998/Awesome-Simultaneous-Translation) ⭐ 576 | 🐛 2 | 📅 2024-06-07 - Paper list of Simultaneous Translation Research, including both text-to-text machine translation and speech-to-text translation.
+* [Awesome Simultaneous Translation](https://github.com/Vily1998/Awesome-Simultaneous-Translation) ⭐ 575 | 🐛 2 | 📅 2024-06-07 - Paper list of Simultaneous Translation Research, including both text-to-text machine translation and speech-to-text translation.
 * [Neural Machine Translation Implementations](https://github.com/jonsafari/nmt-list) ⭐ 364 | 🐛 3 | 📅 2022-07-27 - A list of Neural MT implementations.
 * [NMT Papers](https://github.com/yokusama/NMT_Papers) ⭐ 85 | 🐛 0 | 📅 2020-01-15 - Some papers about NMT.
 * [Awesome-Multimodal-Machine-Translation](https://github.com/ZihengZZH/awesome-multimodal-machine-translation) ⭐ 34 | 🐛 0 | 🌐 TeX | 📅 2021-09-15 - A curated list of awesome papers, datasets and tutorials within Multimodal Machine Learning.
@@ -164,4 +164,4 @@ You can also find an updated list of machine translation frameworks, libraries, 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
