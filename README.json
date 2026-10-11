@@ -112,7 +112,7 @@
             "open_issues": 127,
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 17019,
+            "stars": 17038,
             "topics": [
               "api",
               "machine",
@@ -139,7 +139,7 @@
             "open_issues": 165,
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6547,
+            "stars": 6551,
             "topics": [
               "language-models",
               "linux",
@@ -415,7 +415,7 @@
             "open_issues": 57,
             "owner": "browsermt",
             "repo": "bergamot-translator",
-            "stars": 550,
+            "stars": 551,
             "topics": [
               "cpp",
               "cross-platform",
@@ -1105,7 +1105,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T14:48:03.669Z",
+    "last_updated": "2026-10-11T15:08:01.447Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Machine Translation frameworks, libraries, software and papers",
