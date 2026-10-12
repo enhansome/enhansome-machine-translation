@@ -108,11 +108,11 @@
             "id": 322921248,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-28T00:52:25Z",
-            "open_issues": 127,
+            "last_commit": "2026-10-12T16:51:33Z",
+            "open_issues": 128,
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 17038,
+            "stars": 17056,
             "topics": [
               "api",
               "machine",
@@ -139,7 +139,7 @@
             "open_issues": 165,
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6551,
+            "stars": 6554,
             "topics": [
               "language-models",
               "linux",
@@ -169,7 +169,7 @@
             "open_issues": 53,
             "owner": "XapaJIaMnu",
             "repo": "translateLocally",
-            "stars": 634,
+            "stars": 635,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:02.841Z"
@@ -288,7 +288,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32206,
+            "stars": 32207,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -415,7 +415,7 @@
             "open_issues": 57,
             "owner": "browsermt",
             "repo": "bergamot-translator",
-            "stars": 551,
+            "stars": 553,
             "topics": [
               "cpp",
               "cross-platform",
@@ -1074,7 +1074,7 @@
             "open_issues": 273,
             "owner": "tensorflow",
             "repo": "nmt",
-            "stars": 6451,
+            "stars": 6450,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:02.841Z"
@@ -1105,7 +1105,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T15:08:01.447Z",
+    "last_updated": "2026-10-12T18:14:56.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Machine Translation frameworks, libraries, software and papers",
