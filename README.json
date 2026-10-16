@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "rsennrich",
             "repo": "Bleualign",
-            "stars": 313,
+            "stars": 314,
             "topics": [
               "machine-translation",
               "sentence-alignment"
@@ -112,7 +112,7 @@
             "open_issues": 128,
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 17079,
+            "stars": 17091,
             "topics": [
               "api",
               "machine",
@@ -139,7 +139,7 @@
             "open_issues": 165,
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6562,
+            "stars": 6564,
             "topics": [
               "language-models",
               "linux",
@@ -288,7 +288,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32212,
+            "stars": 32213,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -380,7 +380,7 @@
             "open_issues": 12,
             "owner": "joeynmt",
             "repo": "joeynmt",
-            "stars": 711,
+            "stars": 712,
             "topics": [
               "education",
               "joey-nmt",
@@ -1105,7 +1105,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T13:43:31.358Z",
+    "last_updated": "2026-10-16T13:33:35.486Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Machine Translation frameworks, libraries, software and papers",
