@@ -43,7 +43,7 @@
             "open_issues": 2,
             "owner": "thompsonb",
             "repo": "vecalign",
-            "stars": 202,
+            "stars": 203,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:02.841Z"
@@ -61,7 +61,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2016-05-19T15:55:06Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "machinalis",
             "repo": "yalign",
             "stars": 131,
@@ -109,10 +109,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-12T16:51:33Z",
-            "open_issues": 128,
+            "open_issues": 129,
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 17134,
+            "stars": 17149,
             "topics": [
               "api",
               "machine",
@@ -136,10 +136,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-08T12:09:57Z",
-            "open_issues": 165,
+            "open_issues": 167,
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6585,
+            "stars": 6586,
             "topics": [
               "language-models",
               "linux",
@@ -169,7 +169,7 @@
             "open_issues": 53,
             "owner": "XapaJIaMnu",
             "repo": "translateLocally",
-            "stars": 638,
+            "stars": 637,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:02.841Z"
@@ -288,7 +288,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32213,
+            "stars": 32212,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -415,7 +415,7 @@
             "open_issues": 57,
             "owner": "browsermt",
             "repo": "bergamot-translator",
-            "stars": 557,
+            "stars": 559,
             "topics": [
               "cpp",
               "cross-platform",
@@ -1105,7 +1105,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T14:09:41.567Z",
+    "last_updated": "2026-10-22T14:07:55.751Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Machine Translation frameworks, libraries, software and papers",
