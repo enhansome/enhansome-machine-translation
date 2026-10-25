@@ -1,6 +1,6 @@
 # Awesome Machine Translation with stars
 
-A list of awesome Machine Translation frameworks, libraries, software and papers. Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,648 | 🐛 24 | 🌐 Python | 📅 2026-10-22.
+A list of awesome Machine Translation frameworks, libraries, software and papers. Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,657 | 🐛 25 | 🌐 Python | 📅 2026-10-22.
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@anilozbek](https://twitter.com/anilozbek). Also, a listed repository should be deprecated if:
 
@@ -39,8 +39,8 @@ You can also find an updated list of machine translation frameworks, libraries, 
 
 ## Applications 💻
 
-* [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) ⭐ 17,169 | 🐛 130 | 🌐 Python | 📅 2026-10-23 - A free and open source machine translation API.
-* [Argos Translate](https://github.com/argosopentech/argos-translate) ⭐ 6,590 | 🐛 167 | 🌐 Python | 📅 2026-08-08 - An open-source offline translation library written in Python. Uses OpenNMT for translations, SentencePiece for tokenization, Stanza for sentence boundary detection, and PyQt for GUI.
+* [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) ⭐ 17,178 | 🐛 130 | 🌐 Python | 📅 2026-10-23 - A free and open source machine translation API.
+* [Argos Translate](https://github.com/argosopentech/argos-translate) ⭐ 6,592 | 🐛 167 | 🌐 Python | 📅 2026-08-08 - An open-source offline translation library written in Python. Uses OpenNMT for translations, SentencePiece for tokenization, Stanza for sentence boundary detection, and PyQt for GUI.
 * [translateLocally](https://github.com/XapaJIaMnu/translateLocally) ⭐ 639 | 🐛 53 | 🌐 C++ | 📅 2025-03-30 - A fast and secure translation on your local machine, powered by marian and Bergamot.
 * [DesktopTranslator](https://github.com/ymoslem/DesktopTranslator) ⭐ 101 | 🐛 7 | 🌐 Python | 📅 2024-01-09 - A local cross-platform machine translation GUI, based on CTranslate2.
 * [LibreOffice Translate](https://github.com/lernapparat/lotranslate) ⭐ 72 | 🐛 3 | 🌐 Python | 📅 2020-11-04 - An extension providing neural machine translation for LibreOffice with a single click.
@@ -120,7 +120,7 @@ You can also find an updated list of machine translation frameworks, libraries, 
 
 ## Other MT Lists 📝
 
-* [MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List) ⭐ 2,432 | 🐛 4 | 🌐 TeX | 📅 2024-08-09 - A machine translation reading list maintained by the Tsinghua Natural Language Processing Group.
+* [MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List) ⭐ 2,432 | 🐛 5 | 🌐 TeX | 📅 2024-08-09 - A machine translation reading list maintained by the Tsinghua Natural Language Processing Group.
 * [Awesome Simultaneous Translation](https://github.com/Vily1998/Awesome-Simultaneous-Translation) ⭐ 575 | 🐛 2 | 📅 2024-06-07 - Paper list of Simultaneous Translation Research, including both text-to-text machine translation and speech-to-text translation.
 * [Neural Machine Translation Implementations](https://github.com/jonsafari/nmt-list) ⭐ 364 | 🐛 3 | 📅 2022-07-27 - A list of Neural MT implementations.
 * [NMT Papers](https://github.com/yokusama/NMT_Papers) ⭐ 85 | 🐛 0 | 📅 2020-01-15 - Some papers about NMT.
@@ -164,4 +164,4 @@ You can also find an updated list of machine translation frameworks, libraries, 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
