@@ -112,7 +112,7 @@
             "open_issues": 134,
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 17487,
+            "stars": 17505,
             "topics": [
               "api",
               "machine",
@@ -139,7 +139,7 @@
             "open_issues": 169,
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6644,
+            "stars": 6650,
             "topics": [
               "language-models",
               "linux",
@@ -190,7 +190,7 @@
             "open_issues": 1,
             "owner": "ymoslem",
             "repo": "DesktopTranslator",
-            "stars": 102,
+            "stars": 103,
             "topics": [
               "gui-application",
               "neural-machine-translation",
@@ -285,10 +285,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-09-30T11:16:06Z",
-            "open_issues": 1352,
+            "open_issues": 1351,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32205,
+            "stars": 32208,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -380,7 +380,7 @@
             "open_issues": 12,
             "owner": "joeynmt",
             "repo": "joeynmt",
-            "stars": 713,
+            "stars": 714,
             "topics": [
               "education",
               "joey-nmt",
@@ -415,7 +415,7 @@
             "open_issues": 57,
             "owner": "browsermt",
             "repo": "bergamot-translator",
-            "stars": 564,
+            "stars": 565,
             "topics": [
               "cpp",
               "cross-platform",
@@ -446,7 +446,7 @@
             "open_issues": 68,
             "owner": "modernmt",
             "repo": "modernmt",
-            "stars": 353,
+            "stars": 352,
             "topics": [
               "machine-learning",
               "machine-translation",
@@ -911,8 +911,8 @@
             "id": 220001025,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-11T14:13:06Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-11T19:08:31Z",
+            "open_issues": 5,
             "owner": "Helsinki-NLP",
             "repo": "OpusFilter",
             "stars": 116,
@@ -1105,7 +1105,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T16:39:35.237Z",
+    "last_updated": "2026-11-12T17:07:44.971Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Machine Translation frameworks, libraries, software and papers",
