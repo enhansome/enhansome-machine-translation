@@ -109,10 +109,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-11-14T12:22:54Z",
-            "open_issues": 134,
+            "open_issues": 135,
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 17703,
+            "stars": 17750,
             "topics": [
               "api",
               "machine",
@@ -139,7 +139,7 @@
             "open_issues": 171,
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6654,
+            "stars": 6656,
             "topics": [
               "language-models",
               "linux",
@@ -181,12 +181,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Local cross-platform machine translation GUI, based on CTranslate2",
+            "description": "Local machine translation app for Windows and macOS. Translate text offline with NLLB-200 and other CTranslate2 models, on the CPU or an NVIDIA GPU.",
             "homepage": null,
             "id": 443538808,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-14T08:35:18Z",
+            "last_commit": "2026-11-14T21:33:16Z",
             "open_issues": 1,
             "owner": "ymoslem",
             "repo": "DesktopTranslator",
@@ -289,7 +289,7 @@
             "open_issues": 1351,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32206,
+            "stars": 32205,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -354,7 +354,7 @@
             "open_issues": 10,
             "owner": "EdinburghNLP",
             "repo": "nematus",
-            "stars": 804,
+            "stars": 805,
             "topics": [
               "machine-translation",
               "mt",
@@ -416,7 +416,7 @@
             "open_issues": 57,
             "owner": "browsermt",
             "repo": "bergamot-translator",
-            "stars": 566,
+            "stars": 567,
             "topics": [
               "cpp",
               "cross-platform",
@@ -1106,7 +1106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T15:22:14.728Z",
+    "last_updated": "2026-11-15T15:54:03.275Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Machine Translation frameworks, libraries, software and papers",
