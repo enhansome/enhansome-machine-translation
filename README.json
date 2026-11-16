@@ -109,10 +109,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-11-14T12:22:54Z",
-            "open_issues": 135,
+            "open_issues": 136,
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 17750,
+            "stars": 17774,
             "topics": [
               "api",
               "machine",
@@ -139,7 +139,7 @@
             "open_issues": 171,
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6656,
+            "stars": 6659,
             "topics": [
               "language-models",
               "linux",
@@ -186,11 +186,11 @@
             "id": 443538808,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-14T21:33:16Z",
+            "last_commit": "2026-11-16T18:52:38Z",
             "open_issues": 1,
             "owner": "ymoslem",
             "repo": "DesktopTranslator",
-            "stars": 103,
+            "stars": 105,
             "topics": [
               "ctranslate2",
               "gui-app",
@@ -1106,7 +1106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T15:54:03.275Z",
+    "last_updated": "2026-11-16T18:57:22.735Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Machine Translation frameworks, libraries, software and papers",
@@ -1115,7 +1115,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-07T10:53:08Z",
-      "open_issues": 7,
+      "open_issues": 8,
       "owner": "maidis",
       "repo": "awesome-machine-translation",
       "stars": 203,
