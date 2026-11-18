@@ -112,7 +112,7 @@
             "open_issues": 136,
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 17782,
+            "stars": 17787,
             "topics": [
               "api",
               "machine",
@@ -289,7 +289,7 @@
             "open_issues": 1351,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32203,
+            "stars": 32205,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -416,7 +416,7 @@
             "open_issues": 57,
             "owner": "browsermt",
             "repo": "bergamot-translator",
-            "stars": 568,
+            "stars": 569,
             "topics": [
               "cpp",
               "cross-platform",
@@ -912,7 +912,7 @@
             "id": 220001025,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-11T19:08:31Z",
+            "last_commit": "2026-11-18T14:46:10Z",
             "open_issues": 5,
             "owner": "Helsinki-NLP",
             "repo": "OpusFilter",
@@ -1106,7 +1106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T17:55:50.391Z",
+    "last_updated": "2026-11-18T17:37:48.362Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Machine Translation frameworks, libraries, software and papers",
@@ -1115,7 +1115,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-07T10:53:08Z",
-      "open_issues": 8,
+      "open_issues": 9,
       "owner": "maidis",
       "repo": "awesome-machine-translation",
       "stars": 203,
