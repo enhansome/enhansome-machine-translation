@@ -112,7 +112,7 @@
             "open_issues": 136,
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 17796,
+            "stars": 17802,
             "topics": [
               "api",
               "machine",
@@ -136,10 +136,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-17T11:27:48Z",
-            "open_issues": 171,
+            "open_issues": 172,
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6677,
+            "stars": 6678,
             "topics": [
               "language-models",
               "linux",
@@ -289,7 +289,7 @@
             "open_issues": 1351,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32204,
+            "stars": 32205,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -354,7 +354,7 @@
             "open_issues": 10,
             "owner": "EdinburghNLP",
             "repo": "nematus",
-            "stars": 805,
+            "stars": 804,
             "topics": [
               "machine-translation",
               "mt",
@@ -416,7 +416,7 @@
             "open_issues": 57,
             "owner": "browsermt",
             "repo": "bergamot-translator",
-            "stars": 570,
+            "stars": 571,
             "topics": [
               "cpp",
               "cross-platform",
@@ -1075,7 +1075,7 @@
             "open_issues": 273,
             "owner": "tensorflow",
             "repo": "nmt",
-            "stars": 6454,
+            "stars": 6455,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:02.841Z"
@@ -1106,7 +1106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T17:43:27.012Z",
+    "last_updated": "2026-11-20T17:21:09.373Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Machine Translation frameworks, libraries, software and papers",
@@ -1115,7 +1115,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-07T10:53:08Z",
-      "open_issues": 9,
+      "open_issues": 10,
       "owner": "maidis",
       "repo": "awesome-machine-translation",
       "stars": 203,
