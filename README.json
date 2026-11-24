@@ -108,11 +108,11 @@
             "id": 322921248,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-14T12:22:54Z",
-            "open_issues": 136,
+            "last_commit": "2026-11-24T05:10:15Z",
+            "open_issues": 135,
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 17829,
+            "stars": 17841,
             "topics": [
               "api",
               "machine",
@@ -139,7 +139,7 @@
             "open_issues": 166,
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6689,
+            "stars": 6692,
             "topics": [
               "language-models",
               "linux",
@@ -169,7 +169,7 @@
             "open_issues": 53,
             "owner": "XapaJIaMnu",
             "repo": "translateLocally",
-            "stars": 642,
+            "stars": 644,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:02.841Z"
@@ -187,7 +187,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-16T21:59:06Z",
-            "open_issues": 4,
+            "open_issues": 3,
             "owner": "ymoslem",
             "repo": "DesktopTranslator",
             "stars": 105,
@@ -289,7 +289,7 @@
             "open_issues": 1351,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32204,
+            "stars": 32205,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -1106,7 +1106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T20:37:18.995Z",
+    "last_updated": "2026-11-24T19:44:08.192Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Machine Translation frameworks, libraries, software and papers",
@@ -1115,7 +1115,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-07T10:53:08Z",
-      "open_issues": 10,
+      "open_issues": 11,
       "owner": "maidis",
       "repo": "awesome-machine-translation",
       "stars": 203,
