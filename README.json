@@ -112,7 +112,7 @@
             "open_issues": 136,
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 17847,
+            "stars": 17857,
             "topics": [
               "api",
               "machine",
@@ -136,7 +136,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-17T11:27:48Z",
-            "open_issues": 166,
+            "open_issues": 173,
             "owner": "argosopentech",
             "repo": "argos-translate",
             "stars": 6695,
@@ -169,7 +169,7 @@
             "open_issues": 53,
             "owner": "XapaJIaMnu",
             "repo": "translateLocally",
-            "stars": 644,
+            "stars": 645,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:02.841Z"
@@ -289,7 +289,7 @@
             "open_issues": 1351,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32206,
+            "stars": 32207,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -1106,7 +1106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T18:51:25.544Z",
+    "last_updated": "2026-11-26T18:40:11.542Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Machine Translation frameworks, libraries, software and papers",
